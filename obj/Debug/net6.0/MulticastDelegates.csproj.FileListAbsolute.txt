@@ -1,0 +1,15 @@
+C:\Users\missh\source\repos\CIT195\MulticastDelegates\MulticastDelegates\bin\Debug\net6.0\MulticastDelegates.exe
+C:\Users\missh\source\repos\CIT195\MulticastDelegates\MulticastDelegates\bin\Debug\net6.0\MulticastDelegates.deps.json
+C:\Users\missh\source\repos\CIT195\MulticastDelegates\MulticastDelegates\bin\Debug\net6.0\MulticastDelegates.runtimeconfig.json
+C:\Users\missh\source\repos\CIT195\MulticastDelegates\MulticastDelegates\bin\Debug\net6.0\MulticastDelegates.dll
+C:\Users\missh\source\repos\CIT195\MulticastDelegates\MulticastDelegates\bin\Debug\net6.0\MulticastDelegates.pdb
+C:\Users\missh\source\repos\CIT195\MulticastDelegates\MulticastDelegates\obj\Debug\net6.0\MulticastDelegates.csproj.AssemblyReference.cache
+C:\Users\missh\source\repos\CIT195\MulticastDelegates\MulticastDelegates\obj\Debug\net6.0\MulticastDelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missh\source\repos\CIT195\MulticastDelegates\MulticastDelegates\obj\Debug\net6.0\MulticastDelegates.AssemblyInfoInputs.cache
+C:\Users\missh\source\repos\CIT195\MulticastDelegates\MulticastDelegates\obj\Debug\net6.0\MulticastDelegates.AssemblyInfo.cs
+C:\Users\missh\source\repos\CIT195\MulticastDelegates\MulticastDelegates\obj\Debug\net6.0\MulticastDelegates.csproj.CoreCompileInputs.cache
+C:\Users\missh\source\repos\CIT195\MulticastDelegates\MulticastDelegates\obj\Debug\net6.0\MulticastDelegates.dll
+C:\Users\missh\source\repos\CIT195\MulticastDelegates\MulticastDelegates\obj\Debug\net6.0\refint\MulticastDelegates.dll
+C:\Users\missh\source\repos\CIT195\MulticastDelegates\MulticastDelegates\obj\Debug\net6.0\MulticastDelegates.pdb
+C:\Users\missh\source\repos\CIT195\MulticastDelegates\MulticastDelegates\obj\Debug\net6.0\MulticastDelegates.genruntimeconfig.cache
+C:\Users\missh\source\repos\CIT195\MulticastDelegates\MulticastDelegates\obj\Debug\net6.0\ref\MulticastDelegates.dll
